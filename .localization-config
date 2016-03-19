@@ -1,4 +1,3 @@
-
 {
   "locales": ["de-de", "zh-cn", "ja-jp", "pl-pl"], 
   "files": ["!/*.md", "**/**/*.md", "**/*.md", "**/TOC*.yml"],
