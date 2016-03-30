@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "files": [ "e2e/test1/*.md" ],
+      "files": [ "!**/osmond*.md", "e2e/test1/*.md" ],
       "priorities": [
         {
           "priority": "ht-test",
