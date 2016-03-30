@@ -1,19 +1,10 @@
 {
   "filters": [
     {
-      "files": [ "!**/osmond*.md", "e2e/test1/*.md" ],
+      "files": [ "!**/osmond*.md", "**/*.md" ],
       "priorities": [
         {
           "priority": "ht-test",
-          "locales": [ "zh-cn", "de-de"]
-        }
-      ]
-    },
-    {
-      "files": [ "e2e/test2/*.md" ],
-      "priorities": [
-        {
-          "priority": "mt-test",
           "locales": [ "zh-cn", "de-de"]
         }
       ]
