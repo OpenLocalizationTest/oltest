@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "files": [ "!**/osmond*.md", "**/*.md" ],
+      "files": [ "!**/osmond*.md", "**/*.md", "**/*.yml" ],
       "priorities": [
         {
           "priority": "ht-test",
