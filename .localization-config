@@ -5,7 +5,7 @@
       "priorities": [
         {
           "priority": "ht-test",
-          "locales": [ "zh-cn", "de-de"]
+          "locales": [ "zh-cn", "de-de", "fr-fr"]
         }
       ]
     }
